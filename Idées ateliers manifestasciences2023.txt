@@ -1,0 +1,6 @@
+Idées ManifestaSciences2023 (informatiques) :
+- fractales
+	. Julia, Mandelbrot (interactif ?!)
+	. Sierpinski (binomiaux + chaos !)
+- deviner nombres
+- Arduino : passage à niveau ou robot...
