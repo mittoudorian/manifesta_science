@@ -10,5 +10,5 @@ import dicotomie
 # ---------------------------------
 
 # ----------Devine Nombre----------
-dicotomie.print_dev()
+#dicotomie.print_dev()
 # ---------------------------------
